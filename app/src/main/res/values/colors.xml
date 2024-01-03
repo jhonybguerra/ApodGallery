@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#4FC3F7</color>
+
+    <color name="splash_color">#00070E</color>
+
+    <!-- Azul profundo que evoca a vastidão do espaço -->
+    <color name="spaceDeepBlue">#FFFFFF</color>
+    <!-- Um acento vibrante que pode lembrar estrelas ou planetas -->
+    <color name="spaceAccent">#E0A859</color>
+    <!-- Cor clara para o texto para garantir legibilidade -->
+    <color name="spaceText">#FFFFFF</color>
+    <!-- Um cinza escuro para o fundo que sugere uma sensação noturna -->
+    <color name="spaceBackground">#232A34</color>
+
+</resources>

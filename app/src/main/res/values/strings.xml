@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ApodGallery</string>
+    <string name="apod">Apod</string>
+    <string name="favorites">Favorites</string>
+    <string name="apodgallery">ApodGallery</string>
+    <string name="details">Details</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+    <string name="remove">Remove</string>
+</resources>

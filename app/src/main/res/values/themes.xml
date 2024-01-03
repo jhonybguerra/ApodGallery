@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ApodGallery" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@color/black</item>
+    </style>
+
+    <style name="Theme.ApodGallery" parent="Base.Theme.ApodGallery" />
+
+    <style name="ToolbarTheme" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="colorControlNormal">@color/white</item>
+    </style>
+
+    <style name="BottomNavigationTheme" parent="Widget.Design.BottomNavigationView">
+        <item name="itemIconTint">@color/bottom_nav_item_color</item>
+        <item name="itemTextColor">@color/bottom_nav_item_color</item>
+        <item name="android:background">@color/black</item>
+    </style>
+
+    <style name="SpaceThemeDialog" parent="Theme.MaterialComponents.Dialog.Alert">
+        <!-- Cor principal usada para o fundo do título e botões -->
+        <item name="colorPrimary">@color/spaceDeepBlue</item>
+
+        <!-- Cor de destaque para botões e outros elementos interativos -->
+        <item name="colorAccent">@color/spaceAccent</item>
+
+        <!-- Cor do texto principal dentro do diálogo -->
+        <item name="android:textColorPrimary">@color/spaceText</item>
+
+        <!-- Cor de fundo do diálogo -->
+        <item name="android:background">@color/spaceBackground</item>
+    </style>
+</resources>
