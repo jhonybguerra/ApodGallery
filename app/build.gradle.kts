@@ -85,7 +85,6 @@ dependencies {
     implementation("com.google.dagger:hilt-android:$hiltVersion")
     ksp("com.google.dagger:dagger-compiler:$hiltVersion") // Dagger compiler
     ksp ("com.google.dagger:hilt-compiler:$hiltVersion")   // Hilt compiler
-    //annotationProcessor("com.google.dagger:hilt-compiler:$hiltVersion") - FILHODAPUTA
 
     // For instrumentation tests HILT
     androidTestImplementation("com.google.dagger:hilt-android-testing:$hiltVersion")
